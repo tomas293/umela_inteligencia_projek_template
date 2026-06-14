@@ -1,10 +1,10 @@
 import os
 from PIL import Image
 
-root_folder = r"C:\projekty\umela\allimages"
+root_folder = r"C:\UI-projekt-obrazky"
 
 
-target_folder = r"C:\projekty\umela\datasets\images\train"
+target_folder = r"C:\UI-projekt\datasets\images\train"
 
 os.makedirs(target_folder, exist_ok=True)
 
