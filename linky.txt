@@ -1,2 +1,4 @@
 https://git-scm.com/install/
 https://huggingface.co/datasets?modality=modality:image&size_categories=or:(size_categories:n%3C1K)&format=format:imagefolder&sort=trending
+
+pip install pyqt5==5.15.10 labelImg lxml ultralytics opencv-python
