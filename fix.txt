@@ -1,0 +1,9 @@
+Line 530
+p.drawLine(int(self.prev_point.x()), 0, int(self.prev_point.x()), int(self.pixmap.height()))
+
+Line 531
+p.drawLine(0, int(self.prev_point.y()), int(self.pixmap.width()), int(self.prev_point.y()))
+
+Line 526
+p.drawRect(int(left_top.x()), int(left_top.y()), int(rect_width), int(rect_height))
+### 

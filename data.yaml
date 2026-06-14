@@ -1,0 +1,9 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: mobil
+  1: plast
+  2: papier
