@@ -8,7 +8,7 @@ def train():
         epochs=50,
         imgsz=640,
         batch=8,
-        device=0,
+        device="CPU",
         name="moj_model"
     )
 
