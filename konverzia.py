@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-root_folder = r"C:\UI-projekt-obrazky"
+root_folder = r"C:\UI-projekt\obrazky"
 
 
 target_folder = r"C:\UI-projekt\datasets\images\train"
